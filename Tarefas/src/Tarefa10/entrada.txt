@@ -1,0 +1,4 @@
+compareTo mensagem
+replace e X
+indexOf m
+banana 2

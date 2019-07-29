@@ -1,0 +1,6 @@
+1|Eduardo Barbosa|989897878|Bbosa@hotmail.com
+2|Rafael Cardoso|912123434|rafa@hotmail.com
+3|Taina Lima|934344545|tatapink@gmail.com
+4|Karen Arcoverde|945455656|kr4k3n@gmail.com
+5|Maria Eduarda Lucena|956566767|duda@gmail.com
+6|Leonam Barradas|967677878|leoleo@hotmail.com
